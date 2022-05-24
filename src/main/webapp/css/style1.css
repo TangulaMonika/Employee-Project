@@ -1,0 +1,32 @@
+
+h1{
+	text-align:center;
+	color:White;
+	font-size:50px;
+	
+}
+form{
+	padding-top:20px;
+	text-align:center;
+	color:white;
+	margin-bottom: 50px;
+}
+button{
+	font-size: 20px;
+	font-family:Times New Roman;
+	
+}
+
+body {
+	padding-top:30px;
+    background-color:rgb(64, 0, 64);
+    background-position: center;
+	height:98%;
+	width:98%;
+	
+}
+label {
+display: inline-block;
+width: 150px;
+text-align: center;
+      }
